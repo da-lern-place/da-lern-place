@@ -1,0 +1,137 @@
+===============================================================================
+EXTENSION NAME : linecount
+EXTENSION VERSION : 0.1.7
+-------------------------------------------------------------------------------
+count time : 2019-02-15 19:14:28
+count workspace : c:\Users\El Senor\OneDrive - Colorado Springs School District 11\da-lern-place
+total files : 125
+total code lines : 15946
+total comment lines : 1769
+total blank lines : 3216
+
+Coronado High School _ Homepage.html, code is 1881, comment is 29, blank is 353.
+Coronado High School _ Homepage_files\120x240recad1.jpg, it is a binary file.
+Coronado High School _ Homepage_files\2019-01-17 11.13.24.jpg, it is a binary file.
+Coronado High School _ Homepage_files\2019-01-17 18.42.55.jpg, it is a binary file.
+Coronado High School _ Homepage_files\adams.png, it is a binary file.
+Coronado High School _ Homepage_files\ally.1b07f5b730104dc17d0324bd633e8ab9.css, code is 1, comment is 0, blank is 0.
+Coronado High School _ Homepage_files\ally.ui.5f50f96bdc8f4ccc378b.js.download, code is 1, comment is 1, blank is 0.
+Coronado High School _ Homepage_files\ally.ui.js.download, code is 38, comment is 16, blank is 11.
+Coronado High School _ Homepage_files\API.js.download, code is 257, comment is 81, blank is 53.
+Coronado High School _ Homepage_files\apps.css, code is 1550, comment is 126, blank is 233.
+Coronado High School _ Homepage_files\asu.png, it is a binary file.
+Coronado High School _ Homepage_files\aub.png, it is a binary file.
+Coronado High School _ Homepage_files\az.png, it is a binary file.
+Coronado High School _ Homepage_files\bay.png, it is a binary file.
+Coronado High School _ Homepage_files\blackboard_logo.png, it is a binary file.
+Coronado High School _ Homepage_files\bowling.jpg, it is a binary file.
+Coronado High School _ Homepage_files\byu.png, it is a binary file.
+Coronado High School _ Homepage_files\cal.jpg, it is a binary file.
+Coronado High School _ Homepage_files\cc.png, it is a binary file.
+Coronado High School _ Homepage_files\CheckScript.js.download, code is 152, comment is 12, blank is 3.
+Coronado High School _ Homepage_files\coe.jpg, it is a binary file.
+Coronado High School _ Homepage_files\colorado christian.png, it is a binary file.
+Coronado High School _ Homepage_files\columbia.png, it is a binary file.
+Coronado High School _ Homepage_files\cornell.png, it is a binary file.
+Coronado High School _ Homepage_files\Coronado.png, it is a binary file.
+Coronado High School _ Homepage_files\creative.accessible.navigation.app.min.js.download, code is 1, comment is 3, blank is 1.
+Coronado High School _ Homepage_files\creative.responsive.menu.v2.min.js.download, code is 1, comment is 3, blank is 1.
+Coronado High School _ Homepage_files\creative.responsive.pagelist.menu.v2.min.js.download, code is 1, comment is 3, blank is 1.
+Coronado High School _ Homepage_files\creative.translate.min.js.download, code is 1, comment is 3, blank is 1.
+Coronado High School _ Homepage_files\creativeIcons.min.css, code is 1, comment is 5, blank is 1.
+Coronado High School _ Homepage_files\creativeIcons.v3.min.js.download, code is 1, comment is 2, blank is 1.
+Coronado High School _ Homepage_files\crei.jpg, it is a binary file.
+Coronado High School _ Homepage_files\cs.global.min.css, code is 1, comment is 5, blank is 1.
+Coronado High School _ Homepage_files\cs.global.min.js.download, code is 1, comment is 3, blank is 1.
+Coronado High School _ Homepage_files\cs.rs.photo.gallery.rotator.min.js.download, code is 1, comment is 3, blank is 1.
+Coronado High School _ Homepage_files\css, code is 308, comment is 88, blank is 0.
+Coronado High School _ Homepage_files\csu.jpg, it is a binary file.
+Coronado High School _ Homepage_files\ctu.png, it is a binary file.
+Coronado High School _ Homepage_files\cu.png, it is a binary file.
+Coronado High School _ Homepage_files\cuden.png, it is a binary file.
+Coronado High School _ Homepage_files\dashboard.css, code is 2417, comment is 275, blank is 441.
+Coronado High School _ Homepage_files\doane.png, it is a binary file.
+Coronado High School _ Homepage_files\drt-default-css.css, code is 194, comment is 24, blank is 13.
+Coronado High School _ Homepage_files\du.png, it is a binary file.
+Coronado High School _ Homepage_files\emb.png, it is a binary file.
+Coronado High School _ Homepage_files\Facebook.png, it is a binary file.
+Coronado High School _ Homepage_files\fl.png, it is a binary file.
+Coronado High School _ Homepage_files\ft lewis.png, it is a binary file.
+Coronado High School _ Homepage_files\galleria.classic.css, code is 250, comment is 2, blank is 7.
+Coronado High School _ Homepage_files\galleria.classic.min.js.download, code is 132, comment is 21, blank is 29.
+Coronado High School _ Homepage_files\gpt.js.download, code is 1, comment is 0, blank is 0.
+Coronado High School _ Homepage_files\Grid.css, code is 1163, comment is 2, blank is 328.
+Coronado High School _ Homepage_files\harv.png, it is a binary file.
+Coronado High School _ Homepage_files\harvey.png, it is a binary file.
+Coronado High School _ Homepage_files\hastings.jpg, it is a binary file.
+Coronado High School _ Homepage_files\head.min.js.download, code is 4, comment is 5, blank is 0.
+Coronado High School _ Homepage_files\Initialize.js.download, code is 982, comment is 117, blank is 205.
+Coronado High School _ Homepage_files\ith.png, it is a binary file.
+Coronado High School _ Homepage_files\jacinda.viewFullSite.min.js.download, code is 1, comment is 3, blank is 1.
+Coronado High School _ Homepage_files\jbu.png, it is a binary file.
+Coronado High School _ Homepage_files\joel.mod-events.min.js.download, code is 1, comment is 0, blank is 0.
+Coronado High School _ Homepage_files\jos.png, it is a binary file.
+Coronado High School _ Homepage_files\jquery-migrate-1.2.1.js.download, code is 2, comment is 0, blank is 0.
+Coronado High School _ Homepage_files\jquery-ui.min.js.download, code is 1, comment is 4, blank is 0.
+Coronado High School _ Homepage_files\jquery.ajaxupload.min.js.download, code is 1, comment is 0, blank is 0.
+Coronado High School _ Homepage_files\jquery.jgrowl.css, code is 97, comment is 3, blank is 19.
+Coronado High School _ Homepage_files\jquery.min.js.download, code is 3, comment is 4, blank is 0.
+Coronado High School _ Homepage_files\jquery.sectionlayer.js.download, code is 357, comment is 30, blank is 84.
+Coronado High School _ Homepage_files\jQueryUI.css, code is 137, comment is 56, blank is 30.
+Coronado High School _ Homepage_files\json2.js.download, code is 25, comment is 156, blank is 11.
+Coronado High School _ Homepage_files\Kaleb Rinck Digital Music Production Prodigy.jpg, it is a binary file.
+Coronado High School _ Homepage_files\kan.png, it is a binary file.
+Coronado High School _ Homepage_files\ku.png, it is a binary file.
+Coronado High School _ Homepage_files\lc.jpg, it is a binary file.
+Coronado High School _ Homepage_files\loy.png, it is a binary file.
+Coronado High School _ Homepage_files\mesa.png, it is a binary file.
+Coronado High School _ Homepage_files\metro.jpg, it is a binary file.
+Coronado High School _ Homepage_files\mines.jpg, it is a binary file.
+Coronado High School _ Homepage_files\miss.png, it is a binary file.
+Coronado High School _ Homepage_files\mountain.png, it is a binary file.
+Coronado High School _ Homepage_files\nm.png, it is a binary file.
+Coronado High School _ Homepage_files\noaz.png, it is a binary file.
+Coronado High School _ Homepage_files\notre.jpg, it is a binary file.
+Coronado High School _ Homepage_files\nwu.jpg, it is a binary file.
+Coronado High School _ Homepage_files\nyu.jpg, it is a binary file.
+Coronado High School _ Homepage_files\OpenSans-Italic.css, code is 9, comment is 0, blank is 0.
+Coronado High School _ Homepage_files\OpenSans-Light.css, code is 8, comment is 0, blank is 0.
+Coronado High School _ Homepage_files\OpenSans-Regular.css, code is 9, comment is 0, blank is 0.
+Coronado High School _ Homepage_files\OpenSans-SemiBold.css, code is 9, comment is 0, blank is 1.
+Coronado High School _ Homepage_files\ou.png, it is a binary file.
+Coronado High School _ Homepage_files\oxy.png, it is a binary file.
+Coronado High School _ Homepage_files\PeachJar.png, it is a binary file.
+Coronado High School _ Homepage_files\ppcc.png, it is a binary file.
+Coronado High School _ Homepage_files\pratt.jpg, it is a binary file.
+Coronado High School _ Homepage_files\pueblo.png, it is a binary file.
+Coronado High School _ Homepage_files\pug.png, it is a binary file.
+Coronado High School _ Homepage_files\purd.png, it is a binary file.
+Coronado High School _ Homepage_files\qlogo37.png, it is a binary file.
+Coronado High School _ Homepage_files\regis.png, it is a binary file.
+Coronado High School _ Homepage_files\SchoolwiresMobile_2310.css, code is 558, comment is 2, blank is 181.
+Coronado High School _ Homepage_files\sd.png, it is a binary file.
+Coronado High School _ Homepage_files\shepherd-theme-default.css, code is 208, comment is 0, blank is 4.
+Coronado High School _ Homepage_files\shepherd.min.js.download, code is 1, comment is 0, blank is 0.
+Coronado High School _ Homepage_files\sou.png, it is a binary file.
+Coronado High School _ Homepage_files\sri-failover.min.js.download, code is 1, comment is 0, blank is 0.
+Coronado High School _ Homepage_files\sta.png, it is a binary file.
+Coronado High School _ Homepage_files\submit-tip.png, it is a binary file.
+Coronado High School _ Homepage_files\sw-icon-library.min.css, code is 1, comment is 5, blank is 1.
+Coronado High School _ Homepage_files\SW-UI.min.js.download, code is 41, comment is 8, blank is 7.
+Coronado High School _ Homepage_files\swfobject.js.download, code is 1, comment is 3, blank is 0.
+Coronado High School _ Homepage_files\swfobject.min.js.download, code is 1, comment is 0, blank is 0.
+Coronado High School _ Homepage_files\system.css, code is 4898, comment is 633, blank is 1153.
+Coronado High School _ Homepage_files\tcu.png, it is a binary file.
+Coronado High School _ Homepage_files\tether.min.js.download, code is 1, comment is 0, blank is 0.
+Coronado High School _ Homepage_files\ubc.png, it is a binary file.
+Coronado High School _ Homepage_files\uccs.png, it is a binary file.
+Coronado High School _ Homepage_files\unc.jpg, it is a binary file.
+Coronado High School _ Homepage_files\uoa.png, it is a binary file.
+Coronado High School _ Homepage_files\usafa.png, it is a binary file.
+Coronado High School _ Homepage_files\WCM.js.download, code is 235, comment is 33, blank is 39.
+Coronado High School _ Homepage_files\western.png, it is a binary file.
+Coronado High School _ Homepage_files\wpi.png, it is a binary file.
+Coronado High School _ Homepage_files\wres.jpg, it is a binary file.
+Coronado High School _ Homepage_files\wyo.png, it is a binary file.
+Coronado High School _ Homepage_files\yearbook ad 2.jpg, it is a binary file.
+===============================================================================

@@ -1,0 +1,15 @@
+cd $HOME
+
+git clone https://github.com/ElSenor64/da-lern-place.git
+
+mv da-lern-place .da-lern-place
+
+cd .da-lern-place
+
+cp -r $HOME/.da-lern-place/da-lern-place.desktop $HOME/.local/share/applications/
+
+xdg-open "$HOME/.da-lern-place/Coronado High School _ Homepage.html"
+
+chmod 777 $HOME/.da-lern-place/lern
+
+exit

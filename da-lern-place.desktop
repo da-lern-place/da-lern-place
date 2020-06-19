@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=~/.da-lern-place/lern
+Name=da-lern-place
+Icon=applications-education
