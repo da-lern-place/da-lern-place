@@ -1,4 +1,5 @@
-#Da Lern pLacE
+# Da Lern pLacE
+
 The new Coronado HS home page is best.  
 
 You knows it.
@@ -9,4 +10,4 @@ Yeah.
 
 ## ISSUES anD ideas
 
-subbmit iSsues and sugjeshuns [here](https://github.com/ElSenor64/da-lern-place.github.io/issues) pleez.
+subbmit iSsues and sugjeshuns [here](https://github.com/da-lern-place/da-lern-place.github.io/issues) pleez.
