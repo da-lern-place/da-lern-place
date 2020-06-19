@@ -2,6 +2,6 @@
 Version=1.0
 Type=Application
 Terminal=false
-Exec=xdg-open ./Coronado\ High\ School\ _\ Homepage.html
+Exec=xdg-open ./index.html
 Name=Lern
 Icon=applications-education
